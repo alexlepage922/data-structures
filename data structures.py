@@ -1,3 +1,4 @@
+# Problem 3
 # Initialize dictionary
 people = {"Alice": 25, "Bob": 30, "Charlie": 35, "Diana": 28, "Eve": 22}
 # Add a new person
@@ -22,6 +23,7 @@ add_person("Frank", 27)
 remove_person("Alice")
 print_average_age()
 
+# Problem 4
 # Initialize dictionary
 student_scores = {"John": 75, "Alice": 90, "Bob": 85, "Diana": 78, "Eve": 88}
 # Print the student with the highest score
